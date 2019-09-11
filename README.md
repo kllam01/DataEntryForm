@@ -1,6 +1,4 @@
-# DataEntryForm
+## DataEntryForm
 Finer Vision Data Entry Form Test
-
-![alt text](https://raw.githubusercontent.com/kllam01/DataEntryForm/blob/master/Screenshot/%231.png)
-
-![alt text](https://raw.githubusercontent.com/kllam01/DataEntryForm/blob/master/Screenshot/%232.png)
+![#1](https://user-images.githubusercontent.com/17458727/64739862-431eb600-d4eb-11e9-85fc-08a38ef605c5.png)
+![#2](https://user-images.githubusercontent.com/17458727/64739895-5893e000-d4eb-11e9-88d0-272b76e5e993.png)
